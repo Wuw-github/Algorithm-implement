@@ -1,0 +1,100 @@
+filename	Compression Method	Size(KB)	Compression ratio
+---------------------------------------------------------------------------
+all.tar					2960
+		LZW.java		 1804		1.64
+		MyLZW n			1751		1.69
+		MyLZW r			1151		2.57
+		MyLZW m			3099		0.96
+		7zip			 912		3.25
+
+assig2.doc				85
+		LZW.java		73		1.16
+		MyLZW n			40		2.125
+		MyLZW r			40		2.125
+		MyLZW m			40		2.125
+		7zip			23		3.7
+
+code.txt				71
+		LZW.java		31		2.29
+		MyLZW n			24		2.96
+		MyLZW r			24		2.96
+		MyLZW m			24		2.96
+		7zip			15		4.73
+
+code2.txt				57
+		LZW.java		24		2.38
+		MyLZW n			21		2.71
+		MyLZW r			21		2.71
+		MyLZW m			21		2.71
+		7zip			13		4.38
+
+edit.exe				231
+		LZW.java		245		0.94
+		MyLZW n			153		1.51
+		MyLZW r			149		1.55
+		MyLZW m			153		1.51
+		7zip			119		1.94
+
+frosty.jpg				124
+		LZW.java		174		0.71
+		MyLZW n			160		0.775
+		MyLZW r			168		0.74
+		MyLZW m			160		0.775
+		7zip			124		1
+
+gone_fishing.bmp			17
+		LZW.java		10		1.7
+		MyLZW n			9		1.89
+		MyLZW r			9		1.89
+		MyLZW m			9		1.89
+		7zip			9		1.89
+
+large.txt				1193
+		LZW.java		591		2.02
+		MyLZW n			491		2.43
+		MyLZW r			516		2.31
+		MyLZW m			491		2.43
+		7zip			461		2.59
+
+Lego-big.gif				92
+		LZW.java		126		0.73
+		MyLZW n			120		0.77
+		MyLZW r			120		0.77
+		MyLZW m			120		0.77
+		7zip			91		1.01
+
+medium.txt				25
+		LZW.java		13		1.92
+		MyLZW n			13		1.92
+		MyLZW r			13		1.92
+		MyLZW m			13		1.92
+		7zip			11		2.27
+
+texts.tar				1350
+		LZW.java		989		1.37
+		MyLZW n			584		2.31
+		MyLZW r			577		2.34
+		MyLZW m			584		2.31
+		7zip			498		2.71
+
+
+wacky.bmp				901
+		LZW.java		5		180.2
+		MyLZW n			4		225.25
+		MyLZW r			4		225.25
+		MyLZW m			4		225.25
+		7zip			4		225.25
+
+winnt256.bmp				154
+		LZW.java		156		0.99
+		MyLZW n			62		2.48
+		MyLZW r			62		2.48
+		MyLZW m			62		2.48
+		7zip			46		3.35
+
+bmps.tar				1080
+		LZW.java		904		1.19
+		MyLZW n			80		13.5
+		MyLZW r			80		13.5
+		MyLZW m			80		13.5
+		7zip			58		18.62

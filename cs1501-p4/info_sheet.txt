@@ -1,0 +1,56 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Wu Wei
+
+Lecture section:  MW 3:00-4:15pm
+
+Recitation day and time:  Friday 12:00pm
+
+Assignment #:  4
+
+Program due date:  April 4
+
+Handed in date:  April 2nd
+
+Source code file name(s):
+
+Edge.java
+Graph.java
+MinPQ.java
+NetworkAnalysis.java
+
+
+Other file name(s) (if relevant):
+
+network_data1.txt
+network_data2.txt
+info_sheet.txt
+
+
+
+Does your program run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+At first, I looked the fourth method as finding the articulation point, therefore I wrote an additional method called hasArticulationPt() which returns true if the graph contains articulation points and false if the graph does not contain articulation points. The method is not used in this program but I just keep it there, wish it does not influence the grading too much.
+
+
+
+
+
+

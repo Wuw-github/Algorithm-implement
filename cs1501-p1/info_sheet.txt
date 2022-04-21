@@ -1,0 +1,55 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Wu Wei
+
+Lecture section:  MW 3:00pm
+
+Recitation day and time:  Friday 12:00-12:50
+
+Assignment #:  #1
+
+Program due date:  February 5
+
+Handed in date:  January 31
+
+Source code file name(s):
+
+ac_test.java
+DLBTrie.java
+
+
+
+Other file name(s) (if relevant):
+
+approach.txt
+dictionary.txt
+info_sheet.txt
+
+
+
+
+Does your program run without error?:	Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
